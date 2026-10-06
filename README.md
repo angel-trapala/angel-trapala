@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Angel Trapala and I'm currently an undergraduate student at Oregon State University. My interests are data and life sciences as I enjoy working with numbers and I am intrigued with helping people (which healthcare has gotten my attention a lot recently). I'm still deciding with what major to declare but I'm considering working with healthcare (whether it is an Optometrist or Data Scientist) and I hope that learning about Data would help gain more skills and how data and healthcare help correspond each other to help solve real-life problems!
 
 <!--
 **angel-trapala/angel-trapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
