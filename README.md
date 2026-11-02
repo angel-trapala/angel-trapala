@@ -1,13 +1,20 @@
-# Heading 1 Introduction
+# 
 
-## Heading 2 Hello, my name is Angel Trapala and I'm currently an undergraduate student at Oregon State University. My interests are data and life sciences as I enjoy working with numbers and I am always looking forward to helping people (which healthcare has gotten my attention a lot recently). I'm still deciding with what major to declare but I'm considering working with healthcare (whether it is an Optometrist or Data Scientist) and I hope that learning about Data would help gain more skills and understand how data and healthcare help correspond each other to solve real-life scenarios!
+Introduction
 
-# Heading 1 ___
+##
 
+Hello, my name is Angel Trapala and I'm currently an undergraduate student at Oregon State University. My interests are data and life sciences as I enjoy working with numbers and I am always looking forward to helping people (which healthcare has gotten my attention a lot recently). I'm still deciding with what major to declare but I'm considering working with healthcare (whether it is an Optometrist or Data Scientist) and I hope that learning about Data would help gain more skills and understand how data and healthcare help correspond each other to solve real-life scenarios!
+
+#
+
+___
 
 Current Developing Skills:
 
-## Heading 2 - Critical Thinking + Data Analytics
+##
+
+- Critical Thinking + Data Analytics
 - Use of R Coding
 - Effective use of Time Management
 - Well Organized
